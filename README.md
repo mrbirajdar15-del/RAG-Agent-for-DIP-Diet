@@ -51,6 +51,7 @@ Formats output into structured DIP diet plans
 🔗 RAG Architecture (Custom / LangChain-based)
 ⚡ FastAPI (optional backend)
 📊 Pandas, NumPy
+
 📂 Project Structure
 RAG-Agent-for-DIP-Diet/
 │
